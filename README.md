@@ -69,11 +69,11 @@ You can find the dataset and project notebook on [Kaggle](https://www.kaggle.com
 
 ### Repository Contents
 
-- **Data:** Contains the [Original Dataset](https://www.kaggle.com/datasets/ahmadrafiee/bank-personal-loan) and you can see the cleaned dataset in .ipynb file.
+- **`Data:`** Contains the [Original Dataset](https://www.kaggle.com/datasets/ahmadrafiee/bank-personal-loan) and you can see the cleaned dataset in .ipynb file.
 
-- **Notebook:** Jupyter notebook detailing the entire process, including data preprocessing, visualization, Model Development and evaluation.
+- **`Notebook:`** Jupyter notebook detailing the entire process, including data preprocessing, visualization, Model Development and evaluation.
 
-- **README.md:** Project documentation.
+- **`README.md:`** Project documentation.
 
 <br>
 
