@@ -61,9 +61,9 @@ You can find the dataset and project notebook on [Kaggle](https://www.kaggle.com
 
 ### Technologies Used
 
-- **Languages**: Python
-- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Tools**: Jupyter Notebook
+- **`Languages`**: Python
+- **`Libraries`**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **`Tools`**: Jupyter Notebook
 
 <br>
 
